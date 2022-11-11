@@ -1,3 +1,19 @@
 *{
   box-sizing: border-box;
 }
+ol li{
+  font-size: 30px;
+  color: red;
+}
+h1{
+  color: blue;
+  font-size: 40px;
+}
+h2{
+  color: blue;
+  font-size: 35px;
+}
+mark{
+  color: green;
+  font-size: 30px;
+}
